@@ -1,22 +1,22 @@
 import { getYearSince } from "./date";
 
-export const fullName = "Aries Clark";
-export const birthDay = new Date("May 29, 2002");
+export const fullName = "Boudhayan Biswas";
+export const birthDay = new Date("September 13, 1988");
 
 export const siteTitle = fullName;
-export const siteDescription = "Canadian software engineer";
-export const siteDomain = "ariesclark.com";
+export const siteDescription = "Indian software engineer";
+export const siteDomain = "boudhayan.com";
 export const siteUrl = `https://${siteDomain}`;
 
 export const ctaTitle = "Software Engineer";
 export const ctaSummary = `
-I'm a proud Canadian software engineer with a passion for 
+I'm a proud Indian software engineer with a passion for 
 creating (and occasionally designing) things and services that 
 challenge our perceptions of the every changing internet. 
 `;
 
 export const aboutSummary = `
-I'm Aries, a ${getYearSince(birthDay)}-year-old Canadian with a 
+I'm Boudhayan, a ${getYearSince(birthDay)}-year-old Canadian with a 
 burning desire to improve the status of the web through 
 software development.
 
