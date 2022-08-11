@@ -74,19 +74,19 @@ export const gaMeasurementId = "G-JYF8EMX65Z";
 export const socials = [
 	{
 		name: "Email",
-		href: "mailto:me@ariesclark.com"
+		href: "mailto:hello@boudhayan.com"
 	},
 	{
 		name: "LinkedIn",
-		href: "https://linkedin.com/in/ariesclark"
+		href: "https://linkedin.com/in/boudhayanbiswas"
 	},
 	{
 		name: "Twitter",
-		href: "https://twitter.com/ariesrclark"
+		href: "https://twitter.com/iboudhayan_"
 	},
 	{
 		name: "GitHub",
-		href: "https://github.com/ariesclark"
+		href: "https://github.com/boudhayan"
 	}
 ];
 
