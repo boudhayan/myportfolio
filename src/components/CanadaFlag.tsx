@@ -1,22 +1,8 @@
 export const CanadaFlag: React.VFC<{ className?: string }> = function ({ className }) {
 	return (
-		// <svg className={className} viewBox="0 0 9600 4800" xmlns="http://www.w3.org/2000/svg">
-		// 	<title>Flag of Canada</title>
-		// 	<path
-		// 		className="fill-red-500"
-		// 		d="m0 0h2400l99 99h4602l99-99h2400v4800h-2400l-99-99h-4602l-99 99H0z"
-		// 	/>
-		// 	<path
-		// 		d="m2400 0h4800v4800h-4800zm2490 4430-45-863a95 95 0 0 1 111-98l859 151-116-320a65 65 0 0 1 20-73l941-762-212-99a65 65 0 0 1-34-79l186-572-542 115a65 65 0 0 1-73-38l-105-247-423 454a65 65 0 0 1-111-57l204-1052-327 189a65 65 0 0 1-91-27l-332-652-332 652a65 65 0 0 1-91 27l-327-189 204 1052a65 65 0 0 1-111 57l-423-454-105 247a65 65 0 0 1-73 38l-542-115 186 572a65 65 0 0 1-34 79l-212 99 941 762a65 65 0 0 1 20 73l-116 320 859-151a95 95 0 0 1 111 98l-45 863z"
-		// 		fill="#fff"
-		// 	/>
-		// </svg>
-	<svg className={className} viewBox="0 0 9600 4800" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns="http://www.w3.org/2000/svg">
-  <g
-      id="g2818"
-    >
-    <path
+		<svg className={className} viewBox="0 0 9600 4800" xmlns="http://www.w3.org/2000/svg">
+			<title>Flag of Canada</title>
+			<path
         id="path2834"
         style="fill:#fbfbfb"
         d="m0 130v-130h194 194v130 130h-194-194v-130z"
@@ -56,93 +42,8 @@ export const CanadaFlag: React.VFC<{ className?: string }> = function ({ classNa
         style="fill:#109352"
         d="m3 215.5v-41.5h191 191v41.5 41.5h-191-191v-41.5z"
     />
-  </g
-  >
-  <metadata
-    >
-    <rdf:RDF
-      >
-      <cc:Work
-        >
-        <dc:format
-          >image/svg+xml</dc:format
-        >
-        <dc:type
-            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-        />
-        <cc:license
-            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
-        />
-        <dc:publisher
-          >
-          <cc:Agent
-              rdf:about="http://openclipart.org/"
-            >
-            <dc:title
-              >Openclipart</dc:title
-            >
-          </cc:Agent
-          >
-        </dc:publisher
-        >
-        <dc:title
-          >India flag</dc:title
-        >
-        <dc:date
-          >2010-07-08T11:29:53</dc:date
-        >
-        <dc:description
-          >Flag of United India</dc:description
-        >
-        <dc:source
-          >https://openclipart.org/detail/71581/india-flag-by-chethan</dc:source
-        >
-        <dc:creator
-          >
-          <cc:Agent
-            >
-            <dc:title
-              >chethan</dc:title
-            >
-          </cc:Agent
-          >
-        </dc:creator
-        >
-        <dc:subject
-          >
-          <rdf:Bag
-            >
-            <rdf:li
-              >flag</rdf:li
-            >
-            <rdf:li
-              >india</rdf:li
-            >
-          </rdf:Bag
-          >
-        </dc:subject
-        >
-      </cc:Work
-      >
-      <cc:License
-          rdf:about="http://creativecommons.org/licenses/publicdomain/"
-        >
-        <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Reproduction"
-        />
-        <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Distribution"
-        />
-        <cc:permits
-            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
-        />
-      </cc:License
-      >
-    </rdf:RDF
-    >
-  </metadata
-  >
-</svg
->
+		</svg>
+	
 	);
 };
+
