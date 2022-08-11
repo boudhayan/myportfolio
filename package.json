@@ -1,5 +1,5 @@
 {
-  "homepage": "https://boudhayan.github.io/myportfolio",
+  "homepage": "http://boudhayan.github.io/myportfolio",
   "private": true,
   "license": "GPL-3.0-or-later",
   "scripts": {
@@ -7,8 +7,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d .next"
   },
   "dependencies": {
     "@ariesclark/utils": "^1.1.3",
