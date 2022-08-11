@@ -22,7 +22,7 @@ software development.
 
 I began developing software when I was pretty young, at the age of eleven.
 I've done a lot of various things in those ${getYearSince(
-	new Date(2011, 0, 1)
+	new Date(2012, 4, 12)
 )} years, from building Minecraft mods in Java to writing a 
 lot of terrible PHP websites to getting to where I am now. 
 
@@ -286,6 +286,17 @@ which we manage.`,
 	]
 };
 
+declare module '*.svg' {
+    import React = require('react');
+    export const ReactComponent: React.FC<React.SVGProps<SVGSVGElement>>;
+    const src: string;
+    const content: any;
+    const viewBox: string;
+    const width: string;
+    const height: string;
+    export default content;
+    export default src;
+  }
 export const emailHref = socials.find(({ href }) => href.includes("mailto"))?.href;
 export const twitterHref = socials.find(({ href }) => href.includes("twitter.com"))?.href;
 export const twitterUsername = twitterHref?.match(/twitter\.com\/([^/]+)/i)?.[1];
