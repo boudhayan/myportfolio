@@ -16,7 +16,7 @@ challenge our perceptions of the every changing internet.
 `;
 
 export const aboutSummary = `
-I'm Boudhayan, a ${getYearSince(birthDay)}-year-old Canadian with a 
+I'm Boudhayan, a ${getYearSince(birthDay)}-year-old Indian with a 
 burning desire to improve the status of the web through 
 software development.
 
