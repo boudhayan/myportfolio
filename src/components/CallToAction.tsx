@@ -15,7 +15,6 @@ export const CallToAction: React.FC = function () {
 						<h2 className="flex-none py-2 px-4 w-fit h-fit font-inter text-2xl font-bold text-neutral-900 bg-red-500 rounded sm:text-5xl md:text-6xl">
 							{ctaTitle}
 						</h2>
-						<CanadaFlag className="my-auto w-16 rounded sm:w-32" />
 					</div>
 				</div>
 				<p className="max-w-lg">{ctaSummary}</p>
