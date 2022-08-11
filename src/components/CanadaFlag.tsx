@@ -12,17 +12,7 @@ export const CanadaFlag: React.VFC<{ className?: string }> = function ({ classNa
 		// 	/>
 		// </svg>
 	<svg className={className} viewBox="0 0 9600 4800" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:cc="http://web.resource.org/cc/"
-    xmlns:xlink="file:///C:/flags/india.gif"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    xmlns:ns1="http://sozi.baierouge.fr"
-    id="image-india"
-    viewBox="0 0 388 260"
-  >
+    xmlns="http://www.w3.org/2000/svg">
   <g
       id="g2818"
     >
