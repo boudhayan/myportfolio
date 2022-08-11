@@ -15,7 +15,7 @@ export const Button: React.VFC<ButtonProps> = function (props) {
 	return (
 		<button
 			{...omit(props, ["name", "icon"])}
-			className="group flex justify-between py-2 px-4 w-full text-black bg-white hover:bg-red-300 rounded hover:brightness-90"
+			className="group flex justify-between py-2 px-4 w-full text-black bg-white hover:bg-red-400 rounded hover:brightness-90"
 			type="button"
 		>
 			<span>{name}</span>
