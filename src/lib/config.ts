@@ -10,8 +10,10 @@ export const siteUrl = `https://${siteDomain}`;
 
 export const ctaTitle = "Software Engineer";
 export const ctaSummary = `
-I'm a proud Indian software engineer with a passion for 
-creating (and occasionally designing) things and services that 
+I have over 9 years of experience in iOS/tvOS/macOS application development, specializing
+in Swift, Objective C and Python. I believe positive thinking, clear 
+communication and never giving up spirit are critical for a productive team.
+I have a passion for creating (and occasionally designing) things and services that 
 challenge our perceptions of the every changing internet. 
 `;
 
