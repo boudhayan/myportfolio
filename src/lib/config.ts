@@ -65,28 +65,28 @@ export const aboutRecentTechnologies = [
 	},
 	{
 		name: "TypeScript",
-		description: "A utility-first CSS framework for rapid UI development.",
-		href: "https://tailwindcss.com/"
+		description: "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+		href: "https://www.typescriptlang.org/"
 	},
 		{
 		name: "C",
-		description: "A utility-first CSS framework for rapid UI development.",
-		href: "https://tailwindcss.com/"
+		description: "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.",
+		href: "https://en.wikipedia.org/wiki/C_(programming_language)"
 	},
 	{
 		name: "C++",
-		description: "A utility-first CSS framework for rapid UI development.",
-		href: "https://tailwindcss.com/"
+		description: "C++ is used to create computer programs, and is one of the most used language in game development.",
+		href: "https://en.wikipedia.org/wiki/C%2B%2B"
 	},
 	{
 		name: "Ruby",
-		description: "A utility-first CSS framework for rapid UI development.",
-		href: "https://tailwindcss.com/"
+		description: "A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.",
+		href: "https://www.ruby-lang.org/en/"
 	},
 	{
 		name: "React",
-		description: "A utility-first CSS framework for rapid UI development.",
-		href: "https://tailwindcss.com/"
+		description: "React is a JavaScript library for building user interfaces. React allows us to create reusable UI components.",
+		href: "https://reactjs.org/"
 	}
 ];
 
