@@ -44,19 +44,19 @@ Take a chance and send me a message.`;
 export const aboutRecentTechnologies = [
 	{
 		name: "Swift",
-		description: "A strongly typed programming language that builds on JavaScript.",
-		href: "https://www.typescriptlang.org/"
+		description: "Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS.",
+		href: "https://developer.apple.com/swift/"
 	},
 	{
 		name: "Objective C",
 		description:
-			"A framework for server-side rendering and generating static websites using React and Node.js.",
-		href: "https://nextjs.org/"
+			"Objective-C is the primary programming language you use when writing software for OS X and iOS. It’s a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime.",
+		href: "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html"
 	},
 	{
 		name: "Python",
-		description: "A JavaScript library for building user interfaces.",
-		href: "https://reactjs.org/"
+		description: "Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation",
+		href: "https://www.python.org/"
 	},
 	{
 		name: "Node.js",
