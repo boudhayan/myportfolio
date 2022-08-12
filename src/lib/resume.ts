@@ -1,6 +1,4 @@
 import { siteDomain } from "./config";
 
 const resumeUrl = `${siteDomain}/resume?pdf`;
-export const resumePdfUrl = `https://raphtalia.ariesclark.com/puppeteer/${
-	typeof btoa === "undefined" ? Buffer.from(resumeUrl, "utf-8").toString("base64") : btoa(resumeUrl)
-}/pdf?options=${JSON.stringify({ printBackground: true })}`;
+export const resumePdfUrl = `https://www.dropbox.com/s/kdz4i0eqr685e3t/Resume_Boudhayan.pdf?dl=0`
