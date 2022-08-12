@@ -44,7 +44,7 @@ Take a chance and send me a message.`;
 export const aboutRecentTechnologies = [
 	{
 		name: "Swift",
-		description: "Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS.",
+		description: "Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love.",
 		href: "https://developer.apple.com/swift/"
 	},
 	{
@@ -60,7 +60,7 @@ export const aboutRecentTechnologies = [
 	},
 	{
 		name: "Node.js",
-		description: "A runtime built on Chrome's V8 JavaScript engine.",
+		description: "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.",
 		href: "https://nodejs.org/en/"
 	},
 	{
