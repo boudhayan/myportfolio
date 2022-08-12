@@ -43,18 +43,18 @@ Take a chance and send me a message.`;
 
 export const aboutRecentTechnologies = [
 	{
-		name: "TypeScript",
+		name: "Swift",
 		description: "A strongly typed programming language that builds on JavaScript.",
 		href: "https://www.typescriptlang.org/"
 	},
 	{
-		name: "Next.js",
+		name: "Objective C",
 		description:
 			"A framework for server-side rendering and generating static websites using React and Node.js.",
 		href: "https://nextjs.org/"
 	},
 	{
-		name: "React",
+		name: "Python",
 		description: "A JavaScript library for building user interfaces.",
 		href: "https://reactjs.org/"
 	},
@@ -64,7 +64,22 @@ export const aboutRecentTechnologies = [
 		href: "https://nodejs.org/en/"
 	},
 	{
-		name: "Tailwind CSS",
+		name: "TypeScript",
+		description: "A utility-first CSS framework for rapid UI development.",
+		href: "https://tailwindcss.com/"
+	},
+		{
+		name: "C",
+		description: "A utility-first CSS framework for rapid UI development.",
+		href: "https://tailwindcss.com/"
+	},
+	{
+		name: "C++",
+		description: "A utility-first CSS framework for rapid UI development.",
+		href: "https://tailwindcss.com/"
+	},
+		{
+		name: "Ruby",
 		description: "A utility-first CSS framework for rapid UI development.",
 		href: "https://tailwindcss.com/"
 	}
