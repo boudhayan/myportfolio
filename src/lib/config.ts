@@ -78,8 +78,13 @@ export const aboutRecentTechnologies = [
 		description: "A utility-first CSS framework for rapid UI development.",
 		href: "https://tailwindcss.com/"
 	},
-		{
+	{
 		name: "Ruby",
+		description: "A utility-first CSS framework for rapid UI development.",
+		href: "https://tailwindcss.com/"
+	},
+	{
+		name: "React",
 		description: "A utility-first CSS framework for rapid UI development.",
 		href: "https://tailwindcss.com/"
 	}
