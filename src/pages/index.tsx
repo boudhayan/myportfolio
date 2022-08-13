@@ -57,7 +57,7 @@ export default function RootIndexPage() {
 												))}
 											</ul>
 										</div>
-										<div className="shrink-0 w-80 h-100">
+										<div className="shrink-0 w-60 h-20">
 											<OutlinedImage alt={`Picture of ${fullName}`} src="/images/self.jpg" />
 										</div>
 									</div>
