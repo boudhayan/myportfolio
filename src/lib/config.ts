@@ -16,9 +16,9 @@ communication and never giving up spirit are critical for a productive team.
 I have a passion for creating (and occasionally designing) things and services that 
 challenge our perceptions of the every changing internet. 
 `;
-
+/*${getYearSince(birthDay)}*/
 export const aboutSummary = `
-I'm Boudhayan, a ${getYearSince(birthDay)}-year-old Indian with a 
+I'm Boudhayan, a software engineer with a 
 burning desire to improve the status of the web through 
 software development.
 
